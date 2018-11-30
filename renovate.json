@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "github>pagerinc/renovate-config"
+  ],
+  "packageRules": [
+    {
+      "packageNames": ["hapi"],
+      "allowedVersions": "<17"
+    },
+    {
+      "packageNames": [
+        "hoek",
+        "rejoice",
+        "scooter"
+      ],
+      "allowedVersions": "<5"
+    },
+    {
+      "packageNames": ["good"],
+      "allowedVersions": "<8"
+    }
+  ]
+}
