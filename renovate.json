@@ -18,6 +18,10 @@
     {
       "packageNames": ["good"],
       "allowedVersions": "<8"
+    },
+    {
+      "packageNames": ["newrelic"],
+      "allowedVersions": "<=4.2"
     }
   ]
 }
