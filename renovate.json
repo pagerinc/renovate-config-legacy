@@ -11,7 +11,8 @@
       "packageNames": [
         "hoek",
         "rejoice",
-        "scooter"
+        "scooter",
+        "mongoose"
       ],
       "allowedVersions": "<5"
     },
@@ -22,6 +23,10 @@
     {
       "packageNames": ["newrelic"],
       "allowedVersions": "<=4.2"
+    },
+    {
+      "packageNames": ["lab"],
+      "allowedVersions": "<15"
     }
   ]
 }
