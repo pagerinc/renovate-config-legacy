@@ -21,7 +21,7 @@
     },
     {
       "packageNames": ["h2o2"],
-      "allowedVersions": "<6"
+      "allowedVersions": "<7"
     },
     {
       "packageNames": ["confidence"],
