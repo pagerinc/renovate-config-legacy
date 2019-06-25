@@ -28,23 +28,23 @@
       "allowedVersions": "<3"
     },
     {
-      "packageNames": ["@pagerinc/hapi-auth-armor"],
+      "packageNames": ["@pager/hapi-auth-armor"],
       "allowedVersions": "<5"
     },
     {
-      "packageNames": ["@pagerinc/hapi-bunny"],
+      "packageNames": ["@pager/hapi-bunny"],
       "allowedVersions": "<5"
     },
     {
-      "packageNames": ["@pagerinc/hapi-mongo"],
+      "packageNames": ["@pager/hapi-mongo"],
       "allowedVersions": "<6"
     },
     {
-      "packageNames": ["@pagerinc/hapi-raven"],
+      "packageNames": ["@pager/hapi-raven"],
       "allowedVersions": "<9"
     },
     {
-      "packageNames": ["@pagerinc/hapi-redis"],
+      "packageNames": ["@pager/hapi-redis"],
       "allowedVersions": "<2"
     }
   ]
