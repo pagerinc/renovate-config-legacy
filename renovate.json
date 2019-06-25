@@ -24,10 +24,6 @@
       "allowedVersions": "<7"
     },
     {
-      "packageNames": ["confidence"],
-      "allowedVersions": "<4"
-    },
-    {
       "packageNames": ["hapi-emitter"],
       "allowedVersions": "<3"
     },
