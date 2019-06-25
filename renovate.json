@@ -18,6 +18,34 @@
     {
       "packageNames": ["good"],
       "allowedVersions": "<8"
+    },
+    {
+      "packageNames": ["h2o2"],
+      "allowedVersions": "<7"
+    },
+    {
+      "packageNames": ["hapi-emitter"],
+      "allowedVersions": "<3"
+    },
+    {
+      "packageNames": ["@pagerinc/hapi-auth-armor"],
+      "allowedVersions": "<5"
+    },
+    {
+      "packageNames": ["@pagerinc/hapi-bunny"],
+      "allowedVersions": "<5"
+    },
+    {
+      "packageNames": ["@pagerinc/hapi-mongo"],
+      "allowedVersions": "<6"
+    },
+    {
+      "packageNames": ["@pagerinc/hapi-raven"],
+      "allowedVersions": "<9"
+    },
+    {
+      "packageNames": ["@pagerinc/hapi-redis"],
+      "allowedVersions": "<2"
     }
   ]
 }
