@@ -44,7 +44,7 @@
       "allowedVersions": "<9"
     },
     {
-      "packageNames": ["@pagerinc/hapi-auth-armor"],
+      "packageNames": ["@pagerinc/hapi-redis"],
       "allowedVersions": "<2"
     }
   ]
